@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:28:28</Created>
+	<LastChange>2019-03-06T15:59:30</LastChange></Metadata>
+	<Page imageFilename="varnhagen_rahel01_1834_0510.jpg" imageWidth="1896" imageHeight="2666" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#salute" type="other">
+	<Coords points="756,1560 1695,1560 1695,1641 756,1641"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="942,1656 1752,1656 1752,1776 942,1776"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="catch-word">
+	<Coords points="1605,2187 1746,2187 1746,2253 1605,2253"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="838,545 838,477 735,477 735,545"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="1329,1558 1329,1519 1129,1519 1129,1558"/></SeparatorRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1735,2193 1735,1787 738,1787 738,2193"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1719,574 1719,1324 1681,1324 1681,1325 1605,1325 1605,1326 1529,1326 1529,1327 1454,1327 1454,1328 1378,1328 1378,1329 1302,1329 1302,1330 1227,1330 1227,1331 1151,1331 1151,1332 1075,1332 1075,1333 999,1333 999,1334 924,1334 924,1335 848,1335 848,1336 772,1336 772,1337 735,1337 735,574"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1719,1326 1719,1490 735,1490 735,1339 773,1339 773,1338 849,1338 849,1337 925,1337 925,1336 1000,1336 1000,1335 1076,1335 1076,1334 1152,1334 1152,1333 1228,1333 1228,1332 1303,1332 1303,1331 1379,1331 1379,1330 1455,1330 1455,1329 1530,1329 1530,1328 1606,1328 1606,1327 1682,1327 1682,1326"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:28:28</Created>
+	<LastChange>2019-03-06T16:01:06</LastChange></Metadata>
+	<Page imageFilename="varnhagen_rahel01_1834_0173.jpg" imageWidth="1896" imageHeight="2666" type="content">
+	<PrintSpace>
+	<Coords points="1425,2467 1425,277 51,277 51,2467"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#salute" type="other">
+	<Coords points="303,597 1062,597 1062,669 303,669"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="801,684 1131,684 1131,744 801,744"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#salute" type="other">
+	<Coords points="288,1734 1053,1734 1053,1800 288,1800"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="paragraph">
+	<Coords points="684,1818 1122,1818 1122,1872 684,1872"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="809,506 809,464 561,464 561,506"/></SeparatorRegion>
+	<TextRegion id="r1" type="page-number">
+	<Coords points="1190,529 1190,467 1087,467 1087,529"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="787,1712 787,1670 577,1670 577,1712"/></SeparatorRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1183,2180 1183,1880 116,1880 116,2180"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1183,745 1183,1324 170,1324 170,745"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="1183,1326 1183,1680 170,1680 170,1326"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

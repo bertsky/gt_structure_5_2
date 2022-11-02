@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:28:43</Created>
+	<LastChange>2019-03-06T15:52:32</LastChange></Metadata>
+	<Page imageFilename="vischer_aesthetik030201_1852_0171.jpg" imageWidth="2328" imageHeight="3177" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/>
+	<RegionRefIndexed regionRef="region_5" index="4"/>
+	<RegionRefIndexed regionRef="region_6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level5" type="heading">
+	<Coords points="696,768 969,768 969,858 696,858"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="heading">
+	<Coords points="468,864 1221,864 1221,939 468,939"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#heading_level6" type="heading">
+	<Coords points="741,972 921,972 921,1044 741,1044"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="marginalia">
+	<Coords points="1533,1071 1590,1071 1590,1122 1533,1122"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" type="marginalia">
+	<Coords points="1536,1281 1593,1281 1593,1332 1536,1332"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" type="marginalia">
+	<Coords points="1530,1734 1593,1734 1593,1797 1530,1797"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="880,553 880,484 784,484 784,553"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1553,1065 1553,1933 1465,1933 1465,1934 1291,1934 1291,1935 1116,1935 1116,1936 942,1936 942,1937 767,1937 767,1938 593,1938 593,1939 418,1939 418,1940 244,1940 244,1941 157,1941 157,1065"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1553,1935 1553,2780 157,2780 157,1943 245,1943 245,1942 419,1942 419,1941 594,1941 594,1940 768,1940 768,1939 943,1939 943,1938 1117,1938 1117,1937 1292,1937 1292,1936 1466,1936 1466,1935"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

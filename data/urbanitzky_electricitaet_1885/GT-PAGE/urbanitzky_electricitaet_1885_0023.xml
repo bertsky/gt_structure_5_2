@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:28:20</Created>
+	<LastChange>2019-03-12T11:04:13</LastChange></Metadata>
+	<Page imageFilename="urbanitzky_electricitaet_1885_0023.jpg" imageWidth="2351" imageHeight="2919" type="content">
+	<PrintSpace>
+	<Coords points="71,335 71,2757 1775,2757 1775,335"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r7" index="3"/>
+	<RegionRefIndexed regionRef="region_3" index="4"/>
+	<RegionRefIndexed regionRef="region_4" index="5"/>
+	<RegionRefIndexed regionRef="region_5" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="844,427 1034,427 1034,492 844,492"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="caption">
+	<Coords points="1072,972 1236,972 1236,1033 1072,1033"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="region_4">
+	<Coords points="679,1032 1664,1032 1664,2051 679,2051"/></GraphicRegion>
+	<TextRegion id="region_5" type="caption">
+	<Coords points="1012,2050 1293,2050 1293,2104 1012,2104"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1684,507 1684,706 195,706 195,507"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1684,708 1684,2488 1660,2488 1660,2489 1614,2489 1614,2490 1567,2490 1567,2491 1521,2491 1521,2492 1474,2492 1474,2493 1428,2493 1428,2494 1381,2494 1381,2495 1335,2495 1335,2496 1288,2496 1288,2497 1241,2497 1241,2498 1195,2498 1195,2499 1148,2499 1148,2500 1102,2500 1102,2501 1055,2501 1055,2502 1009,2502 1009,2503 962,2503 962,2504 916,2504 916,2505 869,2505 869,2506 823,2506 823,2507 776,2507 776,2508 730,2508 730,2509 683,2509 683,2510 637,2510 637,2511 590,2511 590,2512 543,2512 543,2513 497,2513 497,2514 450,2514 450,2515 404,2515 404,2516 357,2516 357,2517 311,2517 311,2518 264,2518 264,2519 218,2519 218,2520 195,2520 195,708"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1684,2490 1684,2623 195,2623 195,2522 219,2522 219,2521 265,2521 265,2520 312,2520 312,2519 358,2519 358,2518 405,2518 405,2517 451,2517 451,2516 498,2516 498,2515 544,2515 544,2514 591,2514 591,2513 638,2513 638,2512 684,2512 684,2511 731,2511 731,2510 777,2510 777,2509 824,2509 824,2508 870,2508 870,2507 917,2507 917,2506 963,2506 963,2505 1010,2505 1010,2504 1056,2504 1056,2503 1103,2503 1103,2502 1149,2502 1149,2501 1196,2501 1196,2500 1242,2500 1242,2499 1289,2499 1289,2498 1336,2498 1336,2497 1382,2497 1382,2496 1429,2496 1429,2495 1475,2495 1475,2494 1522,2494 1522,2493 1568,2493 1568,2492 1615,2492 1615,2491 1661,2491 1661,2490"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

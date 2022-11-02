@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:27:34</Created>
+	<LastChange>2019-03-12T11:14:51</LastChange></Metadata>
+	<Page imageFilename="thunberg_reisen02_1794_0251.jpg" imageWidth="2016" imageHeight="2748" type="content">
+	<PrintSpace>
+	<Coords points="1396,2560 1396,300 36,300 36,2560"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_3" custom="#column" type="paragraph">
+	<Coords points="102,441 678,441 678,2400 102,2400"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="header">
+	<Coords points="1033,423 1033,360 293,360 293,423"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="page-number">
+	<Coords points="1220,410 1220,350 1093,350 1093,410"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" custom="#column" type="paragraph">
+	<Coords points="1257,438 1257,1379 1210,1379 1210,1380 1116,1380 1116,1381 1023,1381 1023,1382 929,1382 929,1383 836,1383 836,1384 742,1384 742,1385 696,1385 696,438"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" custom="#column" type="paragraph">
+	<Coords points="1257,1381 1257,2388 696,2388 696,1387 743,1387 743,1386 837,1386 837,1385 930,1385 930,1384 1024,1384 1024,1383 1117,1383 1117,1382 1211,1382 1211,1381"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

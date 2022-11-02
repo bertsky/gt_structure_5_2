@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:28:45</Created>
+	<LastChange>2019-03-06T15:51:58</LastChange></Metadata>
+	<Page imageFilename="vischer_aesthetik030202_1853_0129.jpg" imageWidth="2328" imageHeight="3177" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/>
+	<RegionRefIndexed regionRef="region_5" index="4"/>
+	<RegionRefIndexed regionRef="region_6" index="5"/>
+	<RegionRefIndexed regionRef="region_7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level5" type="heading">
+	<Coords points="369,651 1197,651 1197,834 369,834"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#heading_level6" type="heading">
+	<Coords points="699,846 909,846 909,933 699,933"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#heading_level6" type="heading">
+	<Coords points="720,2148 903,2148 903,2226 720,2226"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="marginalia">
+	<Coords points="1509,2265 1560,2265 1560,2307 1509,2307"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" type="marginalia">
+	<Coords points="1506,2370 1563,2370 1563,2418 1506,2418"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" type="marginalia">
+	<Coords points="1506,2475 1554,2475 1554,2520 1506,2520"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_7" type="marginalia">
+	<Coords points="1509,2625 1560,2625 1560,2673 1509,2673"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1503,2684 1503,2273 96,2273 96,2684"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords points="861,496 861,434 757,434 757,496"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1538,934 1538,1202 1511,1202 1511,1203 1458,1203 1458,1204 1406,1204 1406,1205 1353,1205 1353,1206 1300,1206 1300,1207 1248,1207 1248,1208 1195,1208 1195,1209 1142,1209 1142,1210 1090,1210 1090,1211 1037,1211 1037,1212 984,1212 984,1213 931,1213 931,1214 879,1214 879,1215 826,1215 826,1216 773,1216 773,1217 721,1217 721,1218 668,1218 668,1219 615,1219 615,1220 562,1220 562,1221 510,1221 510,1222 457,1222 457,1223 404,1223 404,1224 352,1224 352,1225 299,1225 299,1226 246,1226 246,1227 194,1227 194,1228 141,1228 141,1229 115,1229 115,934"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1538,1204 1538,2119 115,2119 115,1231 142,1231 142,1230 195,1230 195,1229 247,1229 247,1228 300,1228 300,1227 353,1227 353,1226 405,1226 405,1225 458,1225 458,1224 511,1224 511,1223 563,1223 563,1222 616,1222 616,1221 669,1221 669,1220 722,1220 722,1219 774,1219 774,1218 827,1218 827,1217 880,1217 880,1216 932,1216 932,1215 985,1215 985,1214 1038,1214 1038,1213 1091,1213 1091,1212 1143,1212 1143,1211 1196,1211 1196,1210 1249,1210 1249,1209 1301,1209 1301,1208 1354,1208 1354,1207 1407,1207 1407,1206 1459,1206 1459,1205 1512,1205 1512,1204"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

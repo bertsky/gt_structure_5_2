@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:28:35</Created>
+	<LastChange>2019-03-06T15:56:06</LastChange></Metadata>
+	<Page imageFilename="virchow_cellularpathologie_1858_0033.jpg" imageWidth="2046" imageHeight="2892" type="content">
+	<PrintSpace>
+	<Coords points="1382,2700 1382,192 0,192 0,2700"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r3" index="4"/>
+	<RegionRefIndexed regionRef="region_4" index="5"/>
+	<RegionRefIndexed regionRef="region_5" index="6"/>
+	<RegionRefIndexed regionRef="region_6" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="header">
+	<Coords points="180,306 1042,306 1042,388 180,388"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="page-number">
+	<Coords points="1146,323 1248,323 1248,392 1146,392"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="caption">
+	<Coords points="120,1506 275,1506 275,1563 120,1563"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="region_5">
+	<Coords points="56,1563 343,1563 343,2312 56,2312"/></GraphicRegion>
+	<TextRegion id="region_6" type="caption">
+	<Coords points="23,2376 1288,2376 1288,2538 23,2538"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1258,965 1258,2345 30,2345 30,972 118,972 118,971 294,971 294,970 469,970 469,969 645,969 645,968 820,968 820,967 995,967 995,966 1171,966 1171,965"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1258,403 1258,527 1054,527 1054,526 645,526 645,525 235,525 235,524 30,524 30,403"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="234,526 234,527 644,527 644,528 1053,528 1053,529 1258,529 1258,963 1170,963 1170,964 994,964 994,965 819,965 819,966 644,966 644,967 468,967 468,968 293,968 293,969 117,969 117,970 30,970 30,526"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

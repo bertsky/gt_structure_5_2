@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:28:28</Created>
+	<LastChange>2019-03-06T16:00:44</LastChange></Metadata>
+	<Page imageFilename="varnhagen_rahel01_1834_0275.jpg" imageWidth="1897" imageHeight="2666" type="content">
+	<PrintSpace>
+	<Coords points="1435,2451 1435,274 58,267 83,2464"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#poem_heading" type="paragraph">
+	<Coords points="466,1716 898,1716 898,1773 466,1773"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#poem" type="paragraph">
+	<Coords points="149,1773 1174,1773 1174,2195 149,2195"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1177,490 1177,441 1074,441 1074,490"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1183,548 1183,1540 1157,1540 1157,1541 1105,1541 1105,1542 1054,1542 1054,1543 1002,1543 1002,1544 951,1544 951,1545 900,1545 900,1546 848,1546 848,1547 797,1547 797,1548 745,1548 745,1549 694,1549 694,1550 642,1550 642,1551 591,1551 591,1552 539,1552 539,1553 488,1553 488,1554 436,1554 436,1555 385,1555 385,1556 334,1556 334,1557 282,1557 282,1558 231,1558 231,1559 179,1559 179,1560 154,1560 154,548"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1183,1542 1183,1706 154,1706 154,1562 180,1562 180,1561 232,1561 232,1560 283,1560 283,1559 335,1559 335,1558 386,1558 386,1557 437,1557 437,1556 489,1556 489,1555 540,1555 540,1554 592,1554 592,1553 643,1553 643,1552 695,1552 695,1551 746,1551 746,1550 798,1550 798,1549 849,1549 849,1548 901,1548 901,1547 952,1547 952,1546 1003,1546 1003,1545 1055,1545 1055,1544 1106,1544 1106,1543 1158,1543 1158,1542"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

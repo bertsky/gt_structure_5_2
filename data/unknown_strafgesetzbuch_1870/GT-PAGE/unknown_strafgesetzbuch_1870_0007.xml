@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:28:18</Created>
+	<LastChange>2019-03-06T12:56:15</LastChange></Metadata>
+	<Page imageFilename="unknown_strafgesetzbuch_1870_0007.jpg" imageWidth="1774" imageHeight="2619" type="content">
+	<PrintSpace>
+	<Coords points="1522,2487 1522,177 161,177 161,2487"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="region_2">
+	<Coords points="450,1473 1185,1473 1185,2061 450,2061"/></GraphicRegion>
+	<NoiseRegion id="r0">
+	<Coords points="1425,341 1425,235 1312,235 1312,341"/></NoiseRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1412,1458 1412,316 206,316 206,1458"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1370,2283 1370,2100 267,2100 267,2283"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

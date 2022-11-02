@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:27:22</Created>
+	<LastChange>2019-03-06T12:28:44</LastChange></Metadata>
+	<Page imageFilename="thaer_landwirthschaft01_1809_0185.jpg" imageWidth="2636" imageHeight="3253" type="content">
+	<PrintSpace>
+	<Coords points="2224,3092 2224,264 100,264 100,3092"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="216,560 2038,560 2038,2675 216,2675"/></TableRegion>
+	<TextRegion id="region_2" type="signature-mark">
+	<Coords points="1306,2683 1438,2683 1438,2742 1306,2742"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="2004,564 2004,480 1860,480 1860,564"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="1376,548 1376,480 880,480 880,548"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

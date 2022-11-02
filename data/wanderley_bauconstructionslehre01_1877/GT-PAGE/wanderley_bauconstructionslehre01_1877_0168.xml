@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:29:07</Created>
+	<LastChange>2019-03-06T15:26:07</LastChange></Metadata>
+	<Page imageFilename="wanderley_bauconstructionslehre01_1877_0168.jpg" imageWidth="2037" imageHeight="2836" type="content">
+	<PrintSpace>
+	<Coords points="1986,2668 1986,227 475,227 475,2668"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_1">
+	<Coords points="663,747 1932,747 1932,1275 663,1275"/></TableRegion>
+	<TableRegion id="region_2">
+	<Coords points="660,1380 1935,1380 1935,2190 660,2190"/></TableRegion>
+	<TextRegion id="region_3" custom="#heading_level3" type="heading">
+	<Coords points="1155,2217 1455,2217 1455,2283 1155,2283"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="header">
+	<Coords points="1437,462 1437,403 1155,403 1155,462"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="page-number">
+	<Coords points="768,451 768,413 668,413 668,451"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1934,1375 1934,1268 665,1268 665,1375"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1944,2441 1944,2289 693,2289 693,2441"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1941,482 1941,643 1729,643 1729,642 1304,642 1304,641 878,641 878,640 665,640 665,482"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="877,642 877,643 1303,643 1303,644 1728,644 1728,645 1941,645 1941,724 665,724 665,642"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:28:48</Created>
+	<LastChange>2019-03-06T15:47:44</LastChange></Metadata>
+	<Page imageFilename="vischer_aesthetik030204_1857_0013.jpg" imageWidth="2486" imageHeight="3404" type="content">
+	<PrintSpace>
+	<Coords points="1700,3033 1700,400 54,400 54,3033"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_3" index="0"/>
+	<RegionRefIndexed regionRef="region_4" index="1"/>
+	<RegionRefIndexed regionRef="region_5" index="2"/>
+	<RegionRefIndexed regionRef="region_6" index="3"/>
+	<RegionRefIndexed regionRef="region_7" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_3" custom="#heading_level3" type="heading">
+	<Coords points="186,1008 1476,1008 1476,1245 186,1245"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#heading_level4" type="heading">
+	<Coords points="510,1272 1206,1272 1206,1461 510,1461"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" custom="#heading_level5" type="heading">
+	<Coords points="681,1479 1053,1479 1053,1554 681,1554"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" custom="#heading_level6" type="heading">
+	<Coords points="765,1581 963,1581 963,1647 765,1647"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_7" type="signature-mark">
+	<Coords points="186,2766 1353,2766 1353,2829 186,2829"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1570,1658 1570,2065 1528,2065 1528,2066 1445,2066 1445,2067 1361,2067 1361,2068 1278,2068 1278,2069 1195,2069 1195,2070 1111,2070 1111,2071 1028,2071 1028,2072 945,2072 945,2073 862,2073 862,2074 778,2074 778,2075 695,2075 695,2076 612,2076 612,2077 528,2077 528,2078 445,2078 445,2079 362,2079 362,2080 278,2080 278,2081 195,2081 195,2082 154,2082 154,1658"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1570,2067 1570,2762 154,2762 154,2084 196,2084 196,2083 279,2083 279,2082 363,2082 363,2081 446,2081 446,2080 529,2080 529,2079 613,2079 613,2078 696,2078 696,2077 779,2077 779,2076 863,2076 863,2075 946,2075 946,2074 1029,2074 1029,2073 1112,2073 1112,2072 1196,2072 1196,2071 1279,2071 1279,2070 1362,2070 1362,2069 1446,2069 1446,2068 1529,2068 1529,2067"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

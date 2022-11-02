@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:28:30</Created>
+	<LastChange>2019-03-06T13:09:00</LastChange></Metadata>
+	<Page imageFilename="varnhagen_rahel02_1834_0370.jpg" imageWidth="1847" imageHeight="2526" type="content">
+	<PrintSpace>
+	<Coords points="1771,2346 1731,325 493,278 493,2346"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="paragraph">
+	<Coords points="1020,858 1632,858 1632,918 1020,918"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#salute" type="other">
+	<Coords points="801,1650 1203,1650 1203,1722 801,1722"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="paragraph">
+	<Coords points="867,1737 1683,1737 1683,1938 867,1938"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1700,825 1700,518 687,518 687,825"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="1287,853 1287,812 1043,812 1043,853"/></SeparatorRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1687,1553 1687,928 665,928 665,1553"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="1256,1618 1256,1575 1075,1575 1075,1618"/></SeparatorRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1681,2137 1681,1934 637,1934 637,2137"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="page-number">
+	<Coords points="809,475 809,421 665,421 665,475"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

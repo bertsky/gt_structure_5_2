@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:27:34</Created>
+	<LastChange>2019-03-12T11:13:18</LastChange></Metadata>
+	<Page imageFilename="thunberg_reisen02_1794_0401.jpg" imageWidth="2016" imageHeight="2748" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_3" index="1"/>
+	<RegionRefIndexed regionRef="region_4" index="2"/>
+	<RegionRefIndexed regionRef="region_5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#list_item" type="paragraph">
+	<Coords points="171,393 1302,393 1302,981 171,981"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#column" type="paragraph">
+	<Coords points="708,1629 1290,1629 1290,2352 708,2352"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#column" type="paragraph">
+	<Coords points="132,1629 708,1629 708,2352 132,2352"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" type="signature-mark">
+	<Coords points="669,2352 825,2352 825,2427 669,2427"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="header">
+	<Coords points="1083,373 1083,280 360,280 360,373"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="page-number">
+	<Coords points="1246,370 1246,303 1130,303 1130,370"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1293,1613 1293,1493 133,1493 133,1613"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1256,980 1256,1169 1213,1169 1213,1170 1127,1170 1127,1171 1041,1171 1041,1172 956,1172 956,1173 870,1173 870,1174 785,1174 785,1175 699,1175 699,1176 613,1176 613,1177 528,1177 528,1178 442,1178 442,1179 357,1179 357,1180 271,1180 271,1181 185,1181 185,1182 143,1182 143,980"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1256,1171 1256,1463 143,1463 143,1184 186,1184 186,1183 272,1183 272,1182 358,1182 358,1181 443,1181 443,1180 529,1180 529,1179 614,1179 614,1178 700,1178 700,1177 786,1177 786,1176 871,1176 871,1175 957,1175 957,1174 1042,1174 1042,1173 1128,1173 1128,1172 1214,1172 1214,1171"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

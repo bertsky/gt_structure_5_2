@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:28:40</Created>
+	<LastChange>2019-03-06T15:54:21</LastChange></Metadata>
+	<Page imageFilename="vischer_aesthetik0202_1848_0077.jpg" imageWidth="2327" imageHeight="3176" type="content">
+	<PrintSpace>
+	<Coords points="1753,2965 1753,280 80,280 80,2965"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#poem" type="paragraph">
+	<Coords points="522,540 1266,540 1266,840 522,840"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#heading_level6" type="heading">
+	<Coords points="825,888 1047,888 1047,963 825,963"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="signature-mark">
+	<Coords points="210,2679 1305,2679 1305,2739 210,2739"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="980,500 980,453 850,453 850,500"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1615,984 1615,1506 1442,1506 1442,1505 1096,1505 1096,1504 750,1504 750,1503 404,1503 404,1502 230,1502 230,984"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="403,1504 403,1505 749,1505 749,1506 1095,1506 1095,1507 1441,1507 1441,1508 1615,1508 1615,2318 1441,2318 1441,2319 1095,2319 1095,2320 749,2320 749,2321 403,2321 403,2322 230,2322 230,1504"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="1615,2320 1615,2673 230,2673 230,2324 404,2324 404,2323 750,2323 750,2322 1096,2322 1096,2321 1442,2321 1442,2320"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

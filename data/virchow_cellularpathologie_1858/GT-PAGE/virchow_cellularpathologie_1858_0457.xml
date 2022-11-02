@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:28:35</Created>
+	<LastChange>2019-03-06T15:54:50</LastChange></Metadata>
+	<Page imageFilename="virchow_cellularpathologie_1858_0457.jpg" imageWidth="2046" imageHeight="2892" type="content">
+	<PrintSpace>
+	<Coords points="1496,2782 1496,217 25,217 25,2782"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r0" type="heading">
+	<Coords points="928,1075 928,946 535,946 535,1075"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="821,1192 821,1132 660,1132 660,1192"/></SeparatorRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1419,1301 1419,1991 1200,1991 1200,1990 762,1990 762,1989 323,1989 323,1988 103,1988 103,1301"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="322,1990 322,1991 761,1991 761,1992 1199,1992 1199,1993 1419,1993 1419,2549 103,2549 103,1990"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

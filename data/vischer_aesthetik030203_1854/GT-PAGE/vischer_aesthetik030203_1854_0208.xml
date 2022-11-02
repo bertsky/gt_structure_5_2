@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:28:47</Created>
+	<LastChange>2019-03-06T15:48:11</LastChange></Metadata>
+	<Page imageFilename="vischer_aesthetik030203_1854_0208.jpg" imageWidth="2328" imageHeight="3177" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level6" type="heading">
+	<Coords points="843,1365 2115,1365 2115,1500 843,1500"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#heading_level7" type="heading">
+	<Coords points="1389,1539 1566,1539 1566,1611 1389,1611"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="2180,1284 2180,592 830,592 830,1284"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords points="1538,561 1538,496 1423,496 1423,561"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="2203,1623 2203,1960 2144,1960 2144,1961 2028,1961 2028,1962 1911,1962 1911,1963 1794,1963 1794,1964 1678,1964 1678,1965 1561,1965 1561,1966 1444,1966 1444,1967 1328,1967 1328,1968 1211,1968 1211,1969 1094,1969 1094,1970 978,1970 978,1971 861,1971 861,1972 803,1972 803,1623"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="2203,1962 2203,2742 803,2742 803,1974 862,1974 862,1973 979,1973 979,1972 1095,1972 1095,1971 1212,1971 1212,1970 1329,1970 1329,1969 1445,1969 1445,1968 1562,1968 1562,1967 1679,1967 1679,1966 1795,1966 1795,1965 1912,1965 1912,1964 2029,1964 2029,1963 2145,1963 2145,1962"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

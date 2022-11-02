@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:28:28</Created>
+	<LastChange>2019-03-06T16:00:23</LastChange></Metadata>
+	<Page imageFilename="varnhagen_rahel01_1834_0276.jpg" imageWidth="1896" imageHeight="2666" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#poem" type="paragraph">
+	<Coords points="703,526 1768,526 1768,1244 703,1244"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="1197,1392 1683,1392 1683,1461 1197,1461"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="835,506 835,419 722,419 722,506"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1745,1364 1745,1248 922,1248 922,1364"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1741,1467 1741,1940 1684,1940 1684,1939 1570,1939 1570,1938 1456,1938 1456,1937 1341,1937 1341,1936 1227,1936 1227,1935 1113,1935 1113,1934 998,1934 998,1933 884,1933 884,1932 770,1932 770,1931 712,1931 712,1467"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="769,1933 769,1934 883,1934 883,1935 997,1935 997,1936 1112,1936 1112,1937 1226,1937 1226,1938 1340,1938 1340,1939 1455,1939 1455,1940 1569,1940 1569,1941 1683,1941 1683,1942 1741,1942 1741,2183 712,2183 712,1933"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

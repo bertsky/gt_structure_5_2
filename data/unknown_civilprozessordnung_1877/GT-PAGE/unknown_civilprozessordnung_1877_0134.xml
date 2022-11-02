@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:28:15</Created>
+	<LastChange>2019-03-12T11:07:22</LastChange></Metadata>
+	<Page imageFilename="unknown_civilprozessordnung_1877_0134.jpg" imageWidth="2097" imageHeight="2769" type="content">
+	<PrintSpace>
+	<Coords points="2096,2613 2096,193 486,193 486,2613"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/>
+	<RegionRefIndexed regionRef="region_5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level4" type="heading">
+	<Coords points="1263,414 1485,414 1485,471 1263,471"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#list_item" type="paragraph">
+	<Coords points="813,576 1983,576 1983,1590 813,1590"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#heading_level4" type="heading">
+	<Coords points="1284,1593 1464,1593 1464,1659 1284,1659"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#heading_level4" type="heading">
+	<Coords points="1257,1905 1494,1905 1494,1968 1257,1968"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" custom="#list_item" type="paragraph">
+	<Coords points="876,2076 1989,2076 1989,2433 876,2433"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="882,389 882,320 772,320 772,389"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="1531,393 1531,324 1200,324 1200,393"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1982,575 1982,458 779,458 779,575"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1982,2068 1982,1982 817,1982 817,2068"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1962,1662 1962,1761 1902,1761 1902,1762 1783,1762 1783,1763 1664,1763 1664,1764 1545,1764 1545,1765 1426,1765 1426,1766 1307,1766 1307,1767 1188,1767 1188,1768 1069,1768 1069,1769 950,1769 950,1770 831,1770 831,1771 772,1771 772,1662"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="1962,1763 1962,1927 772,1927 772,1773 832,1773 832,1772 951,1772 951,1771 1070,1771 1070,1770 1189,1770 1189,1769 1308,1769 1308,1768 1427,1768 1427,1767 1546,1767 1546,1766 1665,1766 1665,1765 1784,1765 1784,1764 1903,1764 1903,1763"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

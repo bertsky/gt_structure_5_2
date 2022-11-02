@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:28:48</Created>
+	<LastChange>2019-03-06T15:44:05</LastChange></Metadata>
+	<Page imageFilename="vischer_aesthetik030204_1857_0125.jpg" imageWidth="2486" imageHeight="3404" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="signature-mark">
+	<Coords points="105,2739 621,2739 621,2808 105,2808"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="signature-mark">
+	<Coords points="1170,2754 1263,2754 1263,2811 1170,2811"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="845,575 845,491 729,491 729,575"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1466,587 1466,1540 1425,1540 1425,1539 1341,1539 1341,1538 1258,1538 1258,1537 1174,1537 1174,1536 1090,1536 1090,1535 1007,1535 1007,1534 923,1534 923,1533 840,1533 840,1532 756,1532 756,1531 673,1531 673,1530 589,1530 589,1529 506,1529 506,1528 422,1528 422,1527 338,1527 338,1526 255,1526 255,1525 171,1525 171,1524 129,1524 129,587"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="170,1526 170,1527 254,1527 254,1528 337,1528 337,1529 421,1529 421,1530 505,1530 505,1531 588,1531 588,1532 672,1532 672,1533 755,1533 755,1534 839,1534 839,1535 922,1535 922,1536 1006,1536 1006,1537 1089,1537 1089,1538 1173,1538 1173,1539 1257,1539 1257,1540 1340,1540 1340,1541 1424,1541 1424,1542 1466,1542 1466,2766 129,2766 129,1526"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>
