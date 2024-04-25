@@ -22,7 +22,7 @@
                <mods:location>
                   <mods:physicalLocation>HAB Wolfenbüttel</mods:physicalLocation>
                   <mods:shelfLocator>HAB Wolfenbüttel, M: Vb 641</mods:shelfLocator>
-                  <mods:url>Dig: http://diglib.hab.de/drucke/vb-641/start.htm</mods:url>
+                  <mods:url>http://diglib.hab.de/drucke/vb-641/start.htm</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
