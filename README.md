@@ -46,13 +46,13 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
       </thead>
       <tbody>
          <tr>
-            <td>6351</td>
+            <td>6309</td>
             <td>0</td>
             <td>0</td>
             <td>83</td>
             <td>51</td>
             <td>0</td>
-            <td>179</td>
+            <td>176</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -61,7 +61,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
             <td>0</td>
             <td>0</td>
             <td>0</td>
-            <td>1633</td>
+            <td>1620</td>
          </tr>
       </tbody>
    </table>
@@ -318,25 +318,6 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td>20</td>
-               </tr>
-               <tr>
-                  <td>vischer_aesthetikregister_1858_zkg</td>
-                  <td>94</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
                </tr>
                <tr>
                   <td>vischer_aesthetik0201_1847</td>
@@ -1442,7 +1423,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                </tr>
                <tr>
                   <td>vischer_aesthetikregister_1858</td>
-                  <td>75</td>
+                  <td>127</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1457,7 +1438,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>20</td>
+                  <td>30</td>
                </tr>
                <tr>
                   <td>vischer_aesthetik030203_1854</td>
